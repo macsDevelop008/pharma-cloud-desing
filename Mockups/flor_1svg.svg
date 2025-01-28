@@ -2,15 +2,36 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="793.70081"
-   height="1122.5197"
-   viewBox="0 0 210 296.99999"
+   width="720"
+   height="720"
+   viewBox="0 0 190.5 190.5"
    version="1.1"
    id="svg1"
    xml:space="preserve"
+   sodipodi:docname="flor_1svg.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.4869345"
+     inkscape:cx="184.82979"
+     inkscape:cy="463.1013"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
      id="defs1" /><g
      id="layer1"
      style="display:none"><image
@@ -21,7 +42,8 @@
        id="image1"
        x="6.0056763"
        y="-128.68504" /></g><g
-     id="layer2"><rect
+     id="layer2"
+     style="display:inline;opacity:1"><rect
        style="fill:#000000;stroke-width:1.47788"
        id="rect2"
        width="6.1668057"
@@ -32,7 +54,7 @@
        d="m 49.718866,180.17193 c -0.146376,-0.55297 -0.439127,-1.65892 -0.927052,-2.8462 -0.487925,-1.18728 -1.170996,-2.45584 -1.837826,-3.46421 -0.66683,-1.00838 -1.317372,-1.7565 -2.01673,-2.3908 -0.699357,-0.6343 -1.447485,-1.15474 -2.309483,-1.59386 -0.861997,-0.43913 -1.837814,-0.79693 -2.764866,-0.9921 -0.927053,-0.19517 -1.805289,-0.22771 -2.504646,-0.21144 -0.699356,0.0163 -1.219787,0.0813 0.894572,2.09808 2.11436,2.01677 6.863332,5.98509 9.23787,7.9693 2.374537,1.9842 2.374537,1.98421 2.228161,1.43123 z"
        id="path3"
        transform="matrix(5.585701,0,0,5.585701,-183.24255,-867.01232)" /><circle
-       style="fill:#ffffff;stroke-width:1.59972"
+       style="fill:#333333;stroke-width:1.59972"
        id="path2"
        cx="98.69574"
        cy="30.642212"
